@@ -1,0 +1,82 @@
+[Flod0] val loss:0.18870, val qwk:0.84960; 
+[Flod1] val loss:0.21108, val qwk:0.85045; 
+[Flod2] val loss:0.22434, val qwk:0.82997; 
+[Flod3] val loss:0.22324, val qwk:0.82455; 
+[Flod4] val loss:0.20816, val qwk:0.82432; 
+CV loss:0.211105  CV qwk:0.835777
+
+Test model 0... qwk:0.81004 
+Test model 1... qwk:0.84460 
+Test model 2... qwk:0.82127 
+Test model 3... qwk:0.82413 
+Test model 4... qwk:0.82329 
+================
+ Test average qwk is 0.824668
+ 
+***********************************************************
+ 
+[Flod0] val loss:0.19655, val qwk:0.84629; 
+[Flod1] val loss:0.20721, val qwk:0.84471; 
+[Flod2] val loss:0.21967, val qwk:0.84766; 
+[Flod3] val loss:0.23945, val qwk:0.82519; 
+[Flod4] val loss:0.18742, val qwk:0.85790; 
+CV loss:0.210062  CV qwk:0.844351
+
+Test model 0... qwk:0.80889 
+Test model 1... qwk:0.83788 
+Test model 2... qwk:0.82115 
+Test model 3... qwk:0.83759 
+Test model 4... qwk:0.83324 
+================
+ Test average qwk is 0.82775
+ 
+***********************************************************
+ 
+[Fold0] val loss:0.19551, val qwk:0.84278; 
+[Fold1] val loss:0.18287, val qwk:0.85881; 
+[Fold2] val loss:0.19224, val qwk:0.85256; 
+[Fold3] val loss:0.23147, val qwk:0.83838; 
+[Fold4] val loss:0.17804, val qwk:0.87166; 
+CV loss:0.196024  CV qwk:0.852838
+
+Test model 0... qwk:0.81310 
+Test model 1... qwk:0.80993 
+Test model 2... qwk:0.82693 
+Test model 3... qwk:0.83711 
+Test model 4... qwk:0.84466 
+================
+ Test average qwk is 0.826346
+ 
+***********************************************************
+
+[Fold0] val loss:0.17549, val qwk:0.84913; 
+[Fold1] val loss:0.19869, val qwk:0.85556; 
+[Fold2] val loss:0.19112, val qwk:0.85605; 
+[Fold3] val loss:0.23611, val qwk:0.83267; 
+[Fold4] val loss:0.22809, val qwk:0.86531; 
+CV loss:0.205900  CV qwk:0.851743
+
+Test model 0... qwk:0.82672 
+Test model 1... qwk:0.83260 
+Test model 2... qwk:0.83655 
+Test model 3... qwk:0.83723 
+Test model 4... qwk:0.84063 
+================
+ Test average qwk is 0.834746
+
+***********************************************************
+
+[Fold0] val loss:0.19987, val qwk:0.84859; 
+[Fold1] val loss:0.18927, val qwk:0.86503; 
+[Fold2] val loss:0.20326, val qwk:0.84688; 
+[Fold3] val loss:0.23507, val qwk:0.82870; 
+[Fold4] val loss:0.19044, val qwk:0.84659; 
+CV loss:0.203580  CV qwk:0.847159
+
+Test model 0... qwk:0.82744 
+Test model 1... qwk:0.83934 
+Test model 2... qwk:0.80928 
+Test model 3... qwk:0.84067 
+Test model 4... qwk:0.84494 
+================
+ Test average qwk is 0.832334
